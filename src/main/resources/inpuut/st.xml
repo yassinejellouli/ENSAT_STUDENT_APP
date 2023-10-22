@@ -1,0 +1,55 @@
+<student CIN="M421430" CNE="1.9006293E7">
+   <FULLNAME> laila Rhoni Aref </FULLNAME>
+   <NESSANCE>14-Mar-2001</NESSANCE>
+   <Ville>marakech</Ville>
+   <Modules>
+      <GINF31>
+         <Matiere Note="8.0">XML</Matiere>
+         <Matiere Note="10.0">Programmation orienté objet : Java</Matiere>
+      </GINF31>
+      <GINF32>
+         <Matiere Note="20.0">Maitrise et optimisation des processus</Matiere>
+         <Matiere Note="16.0">Cycle de Vie Logiciel et Méthodes agiles</Matiere>
+      </GINF32>
+      <GINF33>
+         <Matiere Note="0.0">Modélisation orientée objet UML</Matiere>
+         <Matiere Note="3.0">IHM</Matiere>
+      </GINF33>
+      <GINF34>
+         <Matiere Note="19.0">Optimisation et qualité de base de données</Matiere>
+         <Matiere Note="7.0">Administration et securité des Base de données</Matiere>
+      </GINF34>
+      <GINF35>
+         <Matiere Note="16.0">Administration systèmes</Matiere>
+         <Matiere Note="12.0">Programmation systèmes</Matiere>
+      </GINF35>
+      <GINF36>
+         <Matiere Note="8.0">Anglais professionnel</Matiere>
+         <Matiere Note="5.0">Espagnol </Matiere>
+      </GINF36>
+      <GINF41>
+         <Matiere Note="11.0">Introduction à J2EE</Matiere>
+         <Matiere Note="3.0">programmation en C#</Matiere>
+      </GINF41>
+      <GINF42>
+         <Matiere Note="18.0">gestion des données complexes </Matiere>
+         <Matiere Note="18.0">cloud computing</Matiere>
+      </GINF42>
+      <GINF43>
+         <Matiere Note="16.0">Traitement image </Matiere>
+         <Matiere Note="10.0">Vision numérique</Matiere>
+      </GINF43>
+      <GINF44>
+         <Matiere Note="16.0">programmation déclarative</Matiere>
+         <Matiere Note="4.0">Technique algorithmique avancé</Matiere>
+      </GINF44>
+      <GINF45>
+         <Matiere Note="20.0">securité des systemes</Matiere>
+         <Matiere Note="15.0">cryptographie</Matiere>
+      </GINF45>
+      <GINF46>
+         <Matiere Note="3.0">Economicomtabilite2</Matiere>
+         <Matiere Note="19.0">Management de projet</Matiere>
+      </GINF46>
+   </Modules>
+</student>
